@@ -1,0 +1,64 @@
+Added Component: Designator=L1(L298N)
+Added Component: Designator=M1(MPU6050)
+Added Component: Designator=R1(AMS1117)
+Added Component: Designator=R2(AMS1117)
+Added Component: Designator=S1(SH1116)
+Added Component: Designator=T1(TERMINAL)
+Added Component: Designator=T2(TERMINAL)
+Added Component: Designator=U1(L432KC)
+Added Pin To Net: NetName=+3.3V Pin=R2-3
+Added Pin To Net: NetName=+3.3V Pin=S1-1
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=M1-1
+Added Pin To Net: NetName=+5V Pin=R1-3
+Added Pin To Net: NetName=+5V Pin=R2-1
+Added Pin To Net: NetName=+5V Pin=T2-1
+Added Pin To Net: NetName=+5V Pin=U1-19
+Added Net: Name=+5V
+Added Pin To Net: NetName=ENA Pin=L1-1
+Added Pin To Net: NetName=ENA Pin=U1-27
+Added Net: Name=ENA
+Added Pin To Net: NetName=ENB Pin=L1-6
+Added Pin To Net: NetName=ENB Pin=U1-20
+Added Net: Name=ENB
+Added Pin To Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R1-4
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R2-4
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Net: Name=GND
+Added Pin To Net: NetName=IN1 Pin=L1-2
+Added Pin To Net: NetName=IN1 Pin=U1-2
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=L1-3
+Added Pin To Net: NetName=IN2 Pin=U1-9
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=L1-4
+Added Pin To Net: NetName=IN3 Pin=U1-13
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=L1-5
+Added Pin To Net: NetName=IN4 Pin=U1-14
+Added Net: Name=IN4
+Added Pin To Net: NetName=SCL1 Pin=M1-3
+Added Pin To Net: NetName=SCL1 Pin=U1-8
+Added Net: Name=SCL1
+Added Pin To Net: NetName=SCL3 Pin=S1-3
+Added Pin To Net: NetName=SCL3 Pin=U1-21
+Added Net: Name=SCL3
+Added Pin To Net: NetName=SDA1 Pin=M1-4
+Added Pin To Net: NetName=SDA1 Pin=U1-7
+Added Net: Name=SDA1
+Added Pin To Net: NetName=SDA3 Pin=S1-4
+Added Pin To Net: NetName=SDA3 Pin=U1-15
+Added Net: Name=SDA3
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=T1-1
+Added Net: Name=VCC
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

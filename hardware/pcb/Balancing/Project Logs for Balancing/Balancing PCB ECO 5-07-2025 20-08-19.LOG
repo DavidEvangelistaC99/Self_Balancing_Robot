@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=ENA Pin=L1-1
+Removed Pin From Net: NetName=IN1 Pin=L1-2
+Removed Pin From Net: NetName=IN2 Pin=L1-3
+Removed Pin From Net: NetName=IN3 Pin=L1-4
+Removed Pin From Net: NetName=IN4 Pin=L1-5
+Removed Pin From Net: NetName=ENB Pin=L1-6
+Removed Pin From Net: NetName=+5V Pin=M1-1
+Removed Pin From Net: NetName=GND Pin=M1-2
+Removed Pin From Net: NetName=SCL1 Pin=M1-3
+Removed Pin From Net: NetName=SDA1 Pin=M1-4
+Removed Pin From Net: NetName=IN1 Pin=U1-2
+Removed Pin From Net: NetName=SDA1 Pin=U1-7
+Removed Pin From Net: NetName=SCL1 Pin=U1-8
+Removed Pin From Net: NetName=IN2 Pin=U1-9
+Removed Pin From Net: NetName=IN3 Pin=U1-13
+Removed Pin From Net: NetName=IN4 Pin=U1-14
+Removed Pin From Net: NetName=GND Pin=U1-17
+Removed Pin From Net: NetName=+5V Pin=U1-19
+Removed Pin From Net: NetName=ENB Pin=U1-20
+Removed Pin From Net: NetName=ENA Pin=U1-27
+Added Component: Designator=L2(L298N)
+Added Component: Designator=M2(MPU6050)
+Added Component: Designator=U2(L432KC)
+Added Pin To Net: NetName=ENA Pin=L2-1
+Added Pin To Net: NetName=IN1 Pin=L2-2
+Added Pin To Net: NetName=IN2 Pin=L2-3
+Added Pin To Net: NetName=IN3 Pin=L2-4
+Added Pin To Net: NetName=IN4 Pin=L2-5
+Added Pin To Net: NetName=ENB Pin=L2-6
+Added Pin To Net: NetName=+5V Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-2
+Added Pin To Net: NetName=SCL1 Pin=M2-3
+Added Pin To Net: NetName=SDA1 Pin=M2-4
+Added Pin To Net: NetName=IN1 Pin=U2-2
+Added Pin To Net: NetName=SDA1 Pin=U2-7
+Added Pin To Net: NetName=SCL1 Pin=U2-8
+Added Pin To Net: NetName=IN2 Pin=U2-9
+Added Pin To Net: NetName=IN3 Pin=U2-13
+Added Pin To Net: NetName=IN4 Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=+5V Pin=U2-19
+Added Pin To Net: NetName=ENB Pin=U2-20
+Added Pin To Net: NetName=ENA Pin=U2-27

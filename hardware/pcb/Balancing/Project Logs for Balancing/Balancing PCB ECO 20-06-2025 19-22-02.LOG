@@ -1,0 +1,7 @@
+Added Component: Designator=L1(L298N)
+Added Pin To Net: NetName=ENA Pin=L1-1
+Added Pin To Net: NetName=IN1 Pin=L1-2
+Added Pin To Net: NetName=IN2 Pin=L1-3
+Added Pin To Net: NetName=IN3 Pin=L1-4
+Added Pin To Net: NetName=IN4 Pin=L1-5
+Added Pin To Net: NetName=ENB Pin=L1-6

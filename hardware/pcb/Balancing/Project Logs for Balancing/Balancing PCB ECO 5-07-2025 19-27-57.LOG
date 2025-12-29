@@ -1,0 +1,4 @@
+Added Component: Designator=Z2(RES)
+Added Pin To Net: NetName=SCL1 Pin=Z1-2
+Added Pin To Net: NetName=+5V Pin=Z2-1
+Added Pin To Net: NetName=SDA1 Pin=Z2-2
