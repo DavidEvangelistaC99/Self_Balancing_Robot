@@ -43,6 +43,7 @@ The following hardware and tools were used during development and testing:
 - NEMA 17 stepper motor
 - MPU6050 IMU
 - OLED Display (SH1106)
+- L298N motor driver
 - A4988 motor driver
 - Laboratory power supply (12 V, 3 A)
 - Digital multimeter
