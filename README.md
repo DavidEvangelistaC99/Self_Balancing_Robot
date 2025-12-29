@@ -4,7 +4,7 @@
   <img src="images/test.png" width="900">
 </p>
 <p align="center">
-  <em>Self Balancing Robot Breadboard Prototype for Testing and Programming.</em>
+  <em>Self-Balancing Robot Breadboard Prototype for Testing and Programming.</em>
 </p>
 
 ## Overview
@@ -22,19 +22,19 @@ Based on the resulting error, the control law dynamically adjusts the direction 
 The self-balancing robot integrates the following components, selected according to their respective datasheets:
 
 - **MPU6050 IMU**: 6-axis inertial sensor providing 3-axis acceleration and angular velocity data for attitude estimation  
-- **OLED Display (SH1106)**: Displays system status and real-time debugging information  
-- **DC Gear Motor**: Provides mechanical actuation required for balance control  
-- **L298N Motor Driver**: Dual H-bridge driver for bidirectional motor control  
-- **3.3 V and 5 V Voltage Regulator Modules**: Power management for logic and peripherals  
-- **3.7 V LiPo Batteries**: Portable power supply for autonomous operation  
+- **OLED Display (SH1106)**: displays system status and real-time debugging information  
+- **DC Gear Motor**: provides mechanical actuation required for balance control  
+- **L298N Motor Driver**: dual H-bridge driver for bidirectional motor control  
+- **3.3 V and 5 V Voltage Regulator Modules**: power management for logic and peripherals  
+- **3.7 V LiPo Batteries**: portable power supply for autonomous operation  
 
 ## Repository Structure
 
-- `datasheets/`: Reviewed datasheets for all electronic components
-- `documentation/`: Technical documentation according to project progress
+- `datasheets/`: reviewed datasheets for all electronic components
+- `documentation/`: technical documentation according to project progress
 - `hardware/`: PCB schematic, PCB layout, and 3D mechanical design of the robot
-- `images/`: Reference images showing hardware and development progress
-- `user_manuals/`: User manuals related to the STM32 microcontroller
+- `images/`: reference images showing hardware and development progress
+- `user_manuals/`: user manuals related to the STM32 microcontroller
 
 ## Hardware Setup
 The following hardware and tools were used during development and testing:
